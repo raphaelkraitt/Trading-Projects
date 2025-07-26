@@ -1,0 +1,13 @@
+# Crypto Trading Bot Configuration
+# Copy this file to .env and fill in your API keys
+
+# Binance API Configuration
+BINANCE_API_KEY=your_binance_api_key_here
+BINANCE_SECRET=your_binance_secret_key_here
+
+# MEXC API Configuration
+MEXC_API_KEY=your_mexc_api_key_here
+MEXC_SECRET=your_mexc_secret_key_here
+
+# Note: For testing purposes, you can leave these empty to run in demo mode
+# The bot will work without API keys but will only use demo data 
