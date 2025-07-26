@@ -1,0 +1,9 @@
+# Copy this file to .env and add your actual credentials
+
+# Reddit API Credentials
+REDDIT_CLIENT_ID=your_client_id_here
+REDDIT_CLIENT_SECRET=your_client_secret_here
+REDDIT_USER_AGENT=CryptoSentimentBot/1.0
+
+# Twitter API Credentials (optional)
+TWITTER_BEARER_TOKEN=your_twitter_bearer_token_here 
