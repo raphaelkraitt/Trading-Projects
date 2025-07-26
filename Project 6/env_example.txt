@@ -1,0 +1,3 @@
+# Example .env for Arbitrage Bot (optional)
+# No API keys required for public Binance/MEXC data
+# You can add custom settings here if needed 

@@ -1,0 +1,6 @@
+# MT5 Login Example (optional)
+# Copy to .env and fill in your details if you want to use a real/demo account
+MT5_LOGIN=your_mt5_login
+MT5_PASSWORD=your_mt5_password
+MT5_SERVER=your_mt5_server
+# MT5_PATH=path_to_terminal64.exe  # Optional, only if not in default location 
