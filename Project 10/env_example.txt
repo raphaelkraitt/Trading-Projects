@@ -1,0 +1,11 @@
+# Example .env for News Sentiment Bot (optional)
+# Copy this file to .env and add your actual credentials
+
+# NewsAPI (optional - bot works with demo mode)
+NEWS_API_KEY='34b9b6d009124a40905d116c6451ab8b'
+
+# MT5 Connection (optional - bot works without MT5)
+MT5_LOGIN=your_mt5_login
+MT5_PASSWORD=your_mt5_password
+MT5_SERVER=your_mt5_server
+MT5_PATH=C:/Program Files/MetaTrader 5/terminal64.exe 

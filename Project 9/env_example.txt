@@ -1,0 +1,3 @@
+# Example .env for Tkinter Trading Dashboard (optional)
+# No API keys required for public Binance data
+# You can add custom settings here if needed 
