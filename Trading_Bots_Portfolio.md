@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Trading Bots Portfolio
+# 🤖 Trading Bots Portfolio
 ## Comprehensive Suite of 10 Advanced Trading Applications
 
 ---
