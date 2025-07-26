@@ -1,0 +1,127 @@
+# =============================================================================
+# COMPREHENSIVE REQUIREMENTS.TXT FOR ALL TRADING BOT PROJECTS
+# =============================================================================
+# This file contains all dependencies needed for Projects 1-10
+# Install with: pip install -r requirements.txt
+# =============================================================================
+
+# =============================================================================
+# PROJECT 1: Basic Trading Bot (Already completed)
+# =============================================================================
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+python-dotenv>=0.19.0
+
+# =============================================================================
+# PROJECT 2: Crypto Sentiment Analysis Bot
+# =============================================================================
+tweepy>=4.12.0
+praw>=7.6.0
+transformers>=4.20.0
+torch>=1.12.0
+textblob>=0.17.0
+plotly>=5.10.0
+requests>=2.28.0
+
+# =============================================================================
+# PROJECT 3: Stock Momentum Trading Bot with MT5
+# =============================================================================
+MetaTrader5>=5.0.0
+ta>=0.10.0
+
+# =============================================================================
+# PROJECT 4: Reinforcement Learning Crypto Bot
+# =============================================================================
+stable-baselines3>=1.6.0
+gymnasium>=0.26.0
+ccxt>=2.0.0
+scikit-learn>=1.1.0
+
+# =============================================================================
+# PROJECT 5: AI-Powered Price Prediction Bot
+# =============================================================================
+scikit-learn>=1.1.0
+torch>=1.12.0
+ccxt>=2.0.0
+
+# =============================================================================
+# PROJECT 6: Arbitrage Bot between Binance and MEXC
+# =============================================================================
+ccxt>=2.0.0
+
+# =============================================================================
+# PROJECT 7: Portfolio Rebalancer for Stocks
+# =============================================================================
+MetaTrader5>=5.0.0
+scipy>=1.9.0
+
+# =============================================================================
+# PROJECT 8: Backtesting Framework for Crypto Strategies
+# =============================================================================
+ccxt>=2.0.0
+scipy>=1.9.0
+
+# =============================================================================
+# PROJECT 9: Tkinter Trading Dashboard
+# =============================================================================
+ccxt>=2.0.0
+# tkinter is included with Python standard library
+
+# =============================================================================
+# PROJECT 10: News Sentiment Bot for Stock Trading
+# =============================================================================
+MetaTrader5>=5.0.0
+textblob>=0.17.0
+requests>=2.28.0
+
+# =============================================================================
+# CORE DEPENDENCIES (Used across multiple projects)
+# =============================================================================
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+python-dotenv>=0.19.0
+requests>=2.28.0
+
+# =============================================================================
+# OPTIONAL DEPENDENCIES (For enhanced functionality)
+# =============================================================================
+# For better performance with large datasets
+numba>=0.56.0
+
+# For additional chart types
+plotly>=5.10.0
+
+# For advanced statistical analysis
+scipy>=1.9.0
+
+# For machine learning utilities
+scikit-learn>=1.1.0
+
+# =============================================================================
+# DEVELOPMENT DEPENDENCIES (Optional)
+# =============================================================================
+# For code formatting
+black>=22.0.0
+
+# For linting
+flake8>=5.0.0
+
+# For type checking
+mypy>=0.991
+
+# For testing
+pytest>=7.0.0
+
+# =============================================================================
+# INSTALLATION NOTES
+# =============================================================================
+# 1. Install all dependencies: pip install -r requirements.txt
+# 2. For GPU support with PyTorch: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+# 3. MetaTrader5 requires MT5 terminal to be installed on your system
+# 4. Some APIs require separate registration (Twitter, Reddit, NewsAPI)
+# 5. For production use, consider using virtual environments
+# ============================================================================= 
